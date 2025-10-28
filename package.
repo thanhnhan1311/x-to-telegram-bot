@@ -1,0 +1,10 @@
+{
+  "name": "x-to-telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "google-translate-api": "^2.3.0"
+  },
+  "type": "module"
+}
